@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d -m -p "/" -a -tr "\n"
+ls -d -m -p "/" -a 
